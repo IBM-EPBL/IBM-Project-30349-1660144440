@@ -1,0 +1,50 @@
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\110%20Atopic%20Dermatitis%20Photos%20and.jpg 12,162,352,405,0 383,154,612,243,0 385,3,602,116,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_128%20Sunburn%20skin%20Videos_%20Royalty-free.jpg 208,28,534,342,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\11_236%20Sunburn%20Skin%20Stock%20Photos.jpg 90,173,509,362,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\10%20Natural%20Remedies%20To%20Treat%20Rosacea.jpg 13,11,302,322,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\12%20Ways%20to%20Treat%20Sunburns%20_%20Runner_s%20World.jpg 47,42,960,637,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\29_631%20Sunburned%20Stock%20Photos_%20Pictures%20(1).jpg 84,47,277,165,1 237,177,553,344,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\419%20Itching%20Sunburn%20Images_%20Stock%20(1).jpg 36,72,349,227,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\3_139%20Rosacea%20Stock%20Photos%20-%20Free.jpg 52,53,548,502,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\2_059%20Atopic%20Dermatitis%20Stock%20Photos.jpg 209,7,296,127,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\2nd-degree%20burns.png 324,81,647,379,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\8_376%20Atopic%20Dermatitis%20Images_%20Stock%20(2).jpg 161,88,282,201,0 14,115,141,222,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\8_376%20Atopic%20Dermatitis%20Images_%20Stock%20(1).jpg 130,52,278,213,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\74_609%20Rosacea%20Images_%20Stock%20Photos%20(1).jpg 211,107,372,241,2 37,114,88,219,2 61,52,112,81,2 228,63,307,83,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\7%20Summer%20Skin%20Issues%20and%20How%20to%20Treat.jpg 211,196,872,373,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\8%20Facts%20about%20Acne%20Rosacea%20you%20need%20to.jpg 364,76,979,365,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\8_376%20Atopic%20Dermatitis%20Images_%20Stock%20(3).jpg 30,14,224,256,0 257,37,336,186,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Acne%20rosacea%20-%20Stock%20Image%20-%20C002%204051.jpg 63,450,190,597,2 87,163,415,325,2 242,393,490,584,2 204,646,374,752,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\A%20heavy%20sunburn%20on%20the%20neck%20of%20a%20man.jpg 80,51,552,200,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\8_376%20Atopic%20Dermatitis%20Images_%20Stock.jpg 74,96,299,142,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\a%20Sunburn.jpg 111,91,642,454,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Acne%20rosacea%20-%20Stock%20Image%20-%20C049%204534.jpg 49,37,669,537,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Acute%20Sunburn%20Picture%20Image%20on%20(1).jpg 136,89,322,289,1 482,70,615,223,1 337,216,506,417,1 140,317,318,432,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Acute%20Sunburn%20Picture%20Image%20on%20(2).jpg 49,7,469,412,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Acute%20Sunburn%20Picture%20Image%20on%20(3).jpg 75,94,612,435,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Acne%20rosacea%20%E2%80%93%20Torregrosa%20Health.png 92,16,346,288,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Advances%20in%20atopic%20dermatitis%20_%20RCP.jpg 474,310,916,1270,0 916,1251,943,1270,0 661,65,968,303,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Atopic%20Dermatitis%20in%20Emergency%20Medicine.jpg 180,10,348,78,0 75,102,277,208,0 103,219,201,257,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Atopic%20dermatitis_%20Understanding%20the.jpg 266,169,874,532,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Atopic%20Eczema.Skin%20Disease%20Concept%20(1).jpg 46,45,1408,1046,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Atopic%20Dermatitis%20Hikes%20Risk%20of.jpg 22,17,600,400,0
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Best%20Hives%20(Urticaria)%20Treatment%20Near.jpg 245,7,605,171,3 142,123,312,432,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Breaking%20Out%20in%20Hives.jpg 163,174,807,557,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Dangerous%20Suntan%20Sun%20Sunburn%20On%20Skin%20(1).jpg 0,144,213,233,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Chronic%20hives%20-%20Symptoms%20and%20causes.jpg 58,18,469,379,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Chronic%20Hives_%20Symptoms%20and%20Causes%20(and.png 143,24,507,350,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Dangerous%20Suntan%20Sun%20Sunburn%20On%20Skin.jpg 166,70,381,260,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Figure_%20Sunburn.%20Contributed%20by.jpg 157,38,624,568,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Dermatology%20Exam_%20Acne%20vs.%20Rosacea.jpg 157,101,374,376,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Difference%20Between%20Sunburns%20And%20Heat%20Rashes.jpg 320,122,723,364,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\File_Sunburn%20blisters.jpg%20-%20Wikimedia.jpg 99,198,444,395,1
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Hives%20(Urticaria)%20Condition_%20Treatments.jpg 52,82,440,334,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Hives%20-%20Theodore%20J.%20Chu_%20MD.jpg 91,20,156,100,3 219,7,283,189,3 43,121,176,193,3 13,10,79,48,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Hives%20Treatment_%20Here_s%20What%20You%20Can%20Do.jpg 315,246,963,610,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Hives%20Vs.%20Rash_%20How%20to%20Tell%20the%20Difference.jpg 90,111,1097,846,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Hives%20(1).jpg 46,302,1336,1400,3
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Rosacea%20Condition_%20Treatments%20and%20(3).jpg 119,5,429,312,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Isotretinoin%20(Accutane)%20as%20Rosacea.jpg 113,71,1021,672,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Rosacea%20Condition_%20Treatments%20and.jpg 17,9,426,340,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Rosacea%20or%20Something%20Else_%20_%20Everyday.jpg 156,9,671,405,2 23,11,147,144,2
+C:\Users\welcome\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Sunburn%20(solar%20erythema)%20-%20Dermatology%20(1).jpg 26,19,383,262,1
